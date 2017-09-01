@@ -40,6 +40,8 @@ public function actions()
 
 5. Referral widget example:
 ```php
+use wscvua\ws_referral_link\widgets\ReferralLink;
+
 ReferralLink::widget([
     'url' => $url,
     'controller' => 'site'

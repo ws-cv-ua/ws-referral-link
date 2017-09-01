@@ -20,5 +20,10 @@
     "psr-4": {
       "wscvua\\ws_referral_link\\": ""
     }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.0"
+    }
   }
 }
