@@ -1,0 +1,24 @@
+{
+  "name": "ws-cv-ua/ws-referral-link",
+  "description": "This package for hiding original link and show info about following",
+  "license": "MIT",
+  "homepage": "https://github.com/ws-cv-ua/ws-referral-link",
+  "stability":"stable",
+  "minimum-stability":"stable",
+  "authors": [
+    {
+      "name": "Web-Studio.cv.ua",
+      "email": "info@web-studio.cv.ua",
+      "homepage": "http://Web-Studio.cv.ua"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "wscvua\\ws_referral_link\\": ""
+    }
+  }
+}
